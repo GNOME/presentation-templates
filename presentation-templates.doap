@@ -7,7 +7,7 @@
 
   <name xml:lang="en">GNOME Presentation Templates</name>
   <shortdesc xml:lang="en">
-    A collection of GNOME styled templates.
+    A collection of GNOME styled presentation templates, e.g. for GUADEC.
   </shortdesc>
   <description xml:lang="en">
     This repository provides templates to ease presentation creation.
