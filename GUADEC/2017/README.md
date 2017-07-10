@@ -1,16 +1,16 @@
-# GUADEC 2016 Presentation Templates
+# GUADEC 2017 Presentation Templates
 
-This repository contains templates usable for presentations for GUADEC 2016.
+This repository contains templates usable for presentations for GUADEC 2017.
 
 The following commands will get you the template:
 
 ```
-git clone https://github.com/sils1297/guadec-presentation-templates.git
-cd guadec-presentation-templates/2016
+git clone https://git.gnome.org/browse/presentation-templates
+cd presentation-templates/GUADEC/2017
 ```
 
 Don't worry - you **don't need to write LaTeX**! Pandoc is easy! Please give it a
-try so we all can have consistent presentations.
+try so we all can have consistent and pretty presentations.
 
 ## How Can I Create a Presentation?
 

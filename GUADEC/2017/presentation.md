@@ -1,6 +1,6 @@
-% How to use Pandoc for creating awesome slides for GUADEC 2016
+% How to use Pandoc for creating awesome slides for GUADEC 2017
 % Lasse Schuirmann (`lasse.schuirmann@gmail.com`)
-% August 12, 2016
+% July 28, 2017
 
 # Title Slide
 
