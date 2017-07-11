@@ -7,8 +7,7 @@
     % Draw the title page
     \ifnum\thepage=1\relax%
       % The background
-      \node[inner sep=0pt][anchor=south] at (0.5\paperwidth, 0) {
-        \includegraphics[width=2\paperheight,height=\paperheight,keepaspectratio]{guadec-background}};
+      \fill[color=guadecblue] (0, 0) rectangle (\the\paperwidth, \the\paperheight);
 
       % The footer
       \node[inner sep=0pt,yshift=-1.6pt][anchor=south] at (0.5\paperwidth, 6mm) {
