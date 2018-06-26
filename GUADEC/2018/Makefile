@@ -23,7 +23,7 @@ tex: $(OUT)
 pandoc:
 	@echo -n "Compiling $(PANDOC_SRC) to $(PANDOC_OUT)... "
 	@pandoc $(PANDOC_SRC) -t beamer+smart -s -o $(PANDOC_OUT) \
-	-V theme:guadec -V classoption:aspectratio=1610 --slide-level 2 --highlight-style kate
+	-V theme:guadec -V classoption:aspectratio=43 --slide-level 2 --highlight-style kate
 	@echo "Done!"
 
 continuous: pandoc
